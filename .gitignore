@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+.quarto
+A01_Useful_Functions/
+A02_Predation/
+Report_01.docx
+Report_01_english.docx
+Data/
